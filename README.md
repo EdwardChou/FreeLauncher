@@ -9,27 +9,27 @@ Automatically configure proxy and bypass the IP address inspection and open musi
 
 1.   Open Automator on Mac
 <p align="center" >
-  <img src="https://github.com/EdwardChou/FreeLauncher/raw/master/screenshot/1.png" alt="Open Automator" title="Open Automator" />
+  <img src="https://raw.githubusercontent.com/EdwardChou/FreeLauncher/master/screenshots/1.png" alt="Open Automator" title="Open Automator" />
 </p>
 
 2.   "Create new file" - Select "Application"
 <p align="center" >
-  <img src="https://github.com/EdwardChou/FreeLauncher/raw/master/screenshot/1.png" alt="Create new application" title="Create new application" />
+  <img src="https://raw.githubusercontent.com/EdwardChou/FreeLauncher/master/screenshots/1.png" alt="Create new application" title="Create new application" />
 </p>
 
 3.   Select "Run applescript" from the left operation bar
 <p align="center" >
-  <img src="https://github.com/EdwardChou/FreeLauncher/raw/master/screenshot/2.png" alt="Select run applescript" title="Select run applescript" />
+  <img src="https://raw.githubusercontent.com/EdwardChou/FreeLauncher/master/screenshots/2.png" alt="Select run applescript" title="Select run applescript" />
 </p>
 
 4.   Copy and paste the source code to the panel
 <p align="center" >
-  <img src="https://github.com/EdwardChou/FreeLauncher/raw/master/screenshot/3.png" alt="Paste source code" title="Paste source code" />
+  <img src="https://raw.githubusercontent.com/EdwardChou/FreeLauncher/master/screenshots/3.png" alt="Paste source code" title="Paste source code" />
 </p>
 
 5.   Save the script file as Mac Application file
 <p align="center" >
-  <img src="https://github.com/EdwardChou/FreeLauncher/raw/master/screenshot/4.png" alt="Save as mac applcaiton" title="Save as mac applcaiton" />
+  <img src="https://raw.githubusercontent.com/EdwardChou/FreeLauncher/master/screenshots/4.png" alt="Save as mac applcaiton" title="Save as mac applcaiton" />
 </p>
 
 6.   Run FreeLauncher
